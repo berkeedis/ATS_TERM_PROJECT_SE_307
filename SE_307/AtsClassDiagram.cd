@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SE_307.Admin">
+    <Position X="12" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAAAAUAAAAAAAAAADAAAAAAAAAAAABBAAAAAg=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.338" />
+  </Class>
+  <Class Name="SE_307.People">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAEAAACAAAACgAAAAgAAAAA=</HashCode>
+      <FileName>People.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE_307.Test">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE_307.TextFile">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE_307.UserSelectMenu">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>UserSelectMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SE_307.ATS">
+    <Position X="5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CgBAgAgAQAAAQAAAAQAAAAEAAAAAAIAAAACELAAAACw=</HashCode>
+      <FileName>ATS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SE_307.IAddAssignment">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAddAssignment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SE_307.IDeleteAssignment">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDeleteAssignment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SE_307.IListAllAssignment">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IListAllAssignment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SE_307.IListByAfterDeadline">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IListByAfterDeadline.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SE_307.IListByAssignmentType">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IListByAssignmentType.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SE_307.IListByCourseCode">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>IListByCourseCode.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SE_307.IListIndividually">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IListIndividually.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SE_307.IListWithTeam">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>IListWithTeam.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SE_307.IUpdateAssignment">
+    <Position X="13" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>IUpdateAssignment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
